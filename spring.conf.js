@@ -2,6 +2,7 @@ var owner="smartken";
 var repo="asskicker";
 var desc=owner+ " <br/> 上帝说：大部分人认为是对的，基本上都是错的  \n[Fork zhaoda on GitHub](https://github.com/zhaoda/spring)";
 document.title=desc;
+alert(desc);
 $.extend(spring.config, {
   // my blog title
   title: repo,
@@ -18,4 +19,4 @@ $.extend(spring.config, {
     {name: 'About Spring', number: 1},
     {name: 'Quick Start', number: 2}
   ]
-})
+});
