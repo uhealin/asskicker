@@ -1,4 +1,17 @@
+ h1.logo{
+      font-size:1.8em !important;
+	  margin-bottom:5px !important;
+   }
+   
+div.desc{
+       font-size:12px !important;
+   }
+   
 .menu li{
-   height:30px !important;
-   font-size:16px !important;
+       height:30px !important; 
+	   font-size: 15px !important;
+}
+   
+section.issuelist a.taplink{
+       font-size:20px !important;
 }
