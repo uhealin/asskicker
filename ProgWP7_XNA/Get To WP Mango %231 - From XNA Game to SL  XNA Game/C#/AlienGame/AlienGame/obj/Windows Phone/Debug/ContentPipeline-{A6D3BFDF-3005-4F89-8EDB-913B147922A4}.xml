@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleFont.spritefont</Source>
+      <Name>TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\TitleFont.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>alien1.png</Source>
+      <Name>alien1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\alien1.xnb</Output>
+      <Time>2013-06-20T07:38:09.7985889+08:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\background.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>badguy_blue.png</Source>
+      <Name>badguy_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\badguy_blue.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>badguy_green.png</Source>
+      <Name>badguy_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\badguy_green.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>badguy_orange.png</Source>
+      <Name>badguy_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\badguy_orange.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>badguy_red.png</Source>
+      <Name>badguy_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\badguy_red.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\bullet.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud1.png</Source>
+      <Name>cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\cloud1.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud2.png</Source>
+      <Name>cloud2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\cloud2.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\fire.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.png</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\ground.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>hills.png</Source>
+      <Name>hills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\hills.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\laser.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>moon.png</Source>
+      <Name>moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\moon.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>mountains_blurred.png</Source>
+      <Name>mountains_blurred</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\mountains_blurred.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\smoke.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sun.png</Source>
+      <Name>sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\sun.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.png</Source>
+      <Name>tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\tank.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>tank_tire.png</Source>
+      <Name>tank_tire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\tank_tire.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>tank_top.png</Source>
+      <Name>tank_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\tank_top.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\title.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Alien_Hit.wav</Source>
+      <Name>Alien_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\Alien_Hit.xnb</Output>
+      <Time>2013-06-20T07:38:09.8141857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Player_Hit.wav</Source>
+      <Name>Player_Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\Player_Hit.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tank_Fire.wav</Source>
+      <Name>Tank_Fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\Tank_Fire.xnb</Output>
+      <Time>2013-06-20T07:38:09.8297825+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A6D3BFDF-3005-4F89-8EDB-913B147922A4}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\source\Get To WP Mango %231 - From XNA Game to SL  XNA Game\C#\AlienGame\AlienGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-08T09:20:32.5854461+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

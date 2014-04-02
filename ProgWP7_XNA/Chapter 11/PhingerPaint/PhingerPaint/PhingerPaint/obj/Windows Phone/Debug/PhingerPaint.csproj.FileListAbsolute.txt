@@ -1,0 +1,15 @@
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\Content\Segoe14.xnb
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\PhingerPaint.dll
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\PhingerPaint.pdb
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\Petzold.Phone.Xna.dll
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\Petzold.Phone.Xna.pdb
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\PhingerPaint.dll
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\PhingerPaint.pdb
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\AppManifest.xaml
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\bin\Windows Phone\Debug\PhingerPaint.xap
+E:\source\ProgWP7_XNA\Chapter 11\PhingerPaint\PhingerPaint\PhingerPaint\obj\Windows Phone\Debug\XapCacheFile.xml
