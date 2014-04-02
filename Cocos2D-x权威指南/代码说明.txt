@@ -1,0 +1,5 @@
+1.所有代码都采用cocos2d-x 2.0.1版本，由于官网没有2.0.1版本的下载入口，故把cocos2d-x2.0.1放到代码中
+2.新浪微群：http://q.weibo.com/1480459（只限本书读者）
+  图书讨论qq群：240533393（只限本书读者）
+  github代码仓库：https://github.com/manshuoquan/book-code（会定期在github上更新代码版本，包括跟进新版本，脚本版本等）
+3.请将编码格式调整为utf-8
